@@ -4,7 +4,15 @@ A lightweight and flexible tool for generating samples from **US3D** and **MVS3D
 
 ## Changelog
 
-### 2025-07-11
+### 📦 Changelog
+
+#### 2025-07-16
+- Updated **SP-MVS** dataset links and instructions.
+- Provided access to the original dataset used in SP-MVS paper.
+
+**Download:** [Baidu Netdisk](https://pan.baidu.com/s/111IrueZ1UyQcpX7oEq5QyQ?pwd=pieb) (Extraction Code: `pieb`)
+
+#### 2025-07-11
 - Added support for **US3D-MVS-V1** dataset in Sat-MVS-Dataset.
 - Users can now generate samples from US3D-MVS-V1 for MVS experiments seamlessly.
 
