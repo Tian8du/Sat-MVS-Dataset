@@ -5,6 +5,9 @@ A lightweight and flexible tool for generating samples from **US3D** and **MVS3D
 ## Changelog
 
 ### 📦 Changelog
+#### 2025-07-17
+- Added **MVS3D V1 (US3D-MVS-V1)** dataset, available for multi-view unsupervised learning tasks.
+- **Download:** [Baidu Netdisk](https://pan.baidu.com/s/12k7ZKAu9iuh9_JevbROCKg?pwd=x9ic) (Extraction Code: `x9ic`)
 
 #### 2025-07-16
 - Updated **SP-MVS** dataset links and instructions.
