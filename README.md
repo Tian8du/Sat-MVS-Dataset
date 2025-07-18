@@ -4,7 +4,6 @@ A lightweight and flexible tool for generating samples from **US3D** and **MVS3D
 
 ## Changelog
 
-### 📦 Changelog
 #### 2025-07-18
 - Released **MVS3D V2** dataset with improved data organization and standardized splits for unsupervised MVS.
     - **Training set:** Uses random selection within each region/block to enhance diversity and generalization.
