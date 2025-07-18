@@ -5,6 +5,13 @@ A lightweight and flexible tool for generating samples from **US3D** and **MVS3D
 ## Changelog
 
 ### 📦 Changelog
+#### 2025-07-18
+- Released **MVS3D V2** dataset with improved data organization and standardized splits for unsupervised MVS.
+    - **Training set:** Uses random selection within each region/block to enhance diversity and generalization.
+    - **Test set:** Selects the best-scored 5-view group for each region to ensure fair and robust benchmarking.
+    - **Download:** [Baidu Netdisk](https://pan.baidu.com/s/1bpO7IJB6-RMqYS78Z9GVEQ?pwd=muxr) (Extraction Code: `muxr`)
+- This version supports robust, region-level unsupervised MVS training and evaluation in satellite imagery scenarios.
+
 #### 2025-07-17
 - Added **MVS3D V1 (US3D-MVS-V1)** dataset, available for multi-view unsupervised learning tasks.
 - **Download:** [Baidu Netdisk](https://pan.baidu.com/s/12k7ZKAu9iuh9_JevbROCKg?pwd=x9ic) (Extraction Code: `x9ic`)
