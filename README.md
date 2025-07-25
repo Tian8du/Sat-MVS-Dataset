@@ -3,6 +3,12 @@
 A lightweight and flexible tool for generating samples from **US3D** and **MVS3D** datasets for satellite multi-view stereo (MVS) research.
 
 ## Changelog
+#### 2025-07-25
+- Added new **US3D-MVS** dataset with expanded image groups and DSM supervision for evaluation.
+    - This version contains significantly more samples than previous versions.
+    - DSMs are provided as reference ground truth for final model evaluation.
+    - **Download:** [Baidu Netdisk](https://pan.baidu.com/s/1BySdhFG1xml96lOQUe6SXQ?pwd=8kgx) (Extraction Code: `8kgx`)
+
 
 #### 2025-07-18
 - Released **MVS3D V2** dataset with improved data organization and standardized splits for unsupervised MVS.
